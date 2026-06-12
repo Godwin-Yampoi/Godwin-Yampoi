@@ -11,7 +11,7 @@ representation learning, and the systems that turn them into products.
 and the platform connecting patients, intelligence, and experts.
 
 
-🔗 [senebiclabs.com](https://senebiclabs.com) · ✉️ godwinyampoi449@gmail.com · 𝕏 @CodingGodwin
+🔗 [senebiclabs.com](https://senebiclabs.com) · 𝕏 @CodingGodwin
 
 
 <!--
