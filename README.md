@@ -1,15 +1,14 @@
 ## Hi, I'm Godwin
 
-I'm building **[Senebiclabs](https://senebiclabs.com)** — a model of human health at the
-cellular level that flags how the body deviates from healthy, starting with the lung. The
-bet: model health deeply enough and disease, even unseen, reveals itself as a deviation.
+I build **[Senebiclabs](https://senebiclabs.com)**, the data layer behind medical AI.
 
-I work where **medical research meets machine learning** — single-cell genomics,
-representation learning, and the systems that turn them into products.
+Every model is only as good as the data it learns from and is measured against. In medicine, that data can't be crowd-labeled. It takes clinicians. Senebiclabs is the infrastructure for exactly that: certified clinicians evaluate, correct, and create the data medical AI is trained and judged on, with the consensus, adjudication, and provenance that make it trustworthy enough to build on.
 
-**Currently:** a disease-blind healthy-lung reference built on the Human Lung Cell Atlas,
-and the platform connecting patients, intelligence, and experts.
+Two kinds of work:
+- **Evaluation** — expert judgment on what a model gets right and where it breaks.
+- **Creation** — the gold answers, corrections, and benchmarks that don't exist yet.
 
+I work where **medical research meets machine learning**: the systems, the expert network, and the quality layer that turn raw model outputs into defensible data.
 
 🔗 [senebiclabs.com](https://senebiclabs.com) · 𝕏 @CodingGodwin
 
