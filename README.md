@@ -4,9 +4,6 @@ I build **[Senebiclabs](https://senebiclabs.com)**, the data layer behind medica
 
 Every model is only as good as the data it learns from and is measured against. In medicine, that data can't be crowd-labeled. It takes clinicians. Senebiclabs is the infrastructure for exactly that: certified clinicians evaluate, correct, and create the data medical AI is trained and judged on, with the consensus, adjudication, and provenance that make it trustworthy enough to build on.
 
-Two kinds of work:
-- **Evaluation** — expert judgment on what a model gets right and where it breaks.
-- **Creation** — the gold answers, corrections, and benchmarks that don't exist yet.
 
 I work where **medical research meets machine learning**: the systems, the expert network, and the quality layer that turn raw model outputs into defensible data.
 
