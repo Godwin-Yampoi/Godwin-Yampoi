@@ -1,6 +1,6 @@
 ## Hi, I'm Godwin
 
-I build **[Senebiclabs](https://senebiclabs.com)**, the data layer behind medical AI.
+Am building **[Senebiclabs](https://senebiclabs.com)**, the data layer behind medical AI.
 
 Every model is only as good as the data it learns from and is measured against. In medicine, that data can't be crowd-labeled. It takes clinicians. Senebiclabs is the infrastructure for exactly that: certified clinicians evaluate, correct, and create the data medical AI is trained and judged on, with the consensus, adjudication, and provenance that make it trustworthy enough to build on.
 
