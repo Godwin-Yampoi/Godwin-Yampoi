@@ -9,10 +9,6 @@ I work where **medical research meets machine learning**: the systems, the exper
 
 🔗 [senebiclabs.com](https://senebiclabs.com) · 𝕏 @CodingGodwin
 
-### 🛠️ Core Stack
-
-![Go](https://shields.io)
-![TypeScript](https://shields.io)
 
 <!--
 **Godwin-Yampoi/Godwin-Yampoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
