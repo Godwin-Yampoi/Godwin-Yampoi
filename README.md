@@ -9,6 +9,9 @@ I work where **medical research meets machine learning**: the systems, the exper
 
 🔗 [senebiclabs.com](https://senebiclabs.com) · 𝕏 @CodingGodwin
 
+### 📊 My Top Languages
+
+![Godwin's Top Languages](https://vercel.app)
 
 <!--
 **Godwin-Yampoi/Godwin-Yampoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
